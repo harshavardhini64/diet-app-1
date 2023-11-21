@@ -1,0 +1,14 @@
+/* styles with bachground properties
+*/
+h2 {
+    background-color:palevioletred;
+}
+body {
+   /* background-color:aqua;
+    background-image:url("./images/harry\ potter.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;*/
+    background: palevioletred url("./images/interior.png") no-repeat
+    right top;
+    
+}

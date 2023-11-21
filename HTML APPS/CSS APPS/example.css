@@ -1,0 +1,10 @@
+h2 {
+    background-color: blue;
+}
+body{
+    background: url("./images/interior.png");
+    border-style: dotted;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+}

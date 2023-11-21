@@ -1,0 +1,27 @@
+/*
+applying styles
+*/
+
+/* element selector*/
+
+h2 {
+    color:red;
+}
+
+
+/* grouping selector*/
+
+h2,p {
+    text-align:center;
+}
+
+/* id selector*/
+
+#first {
+    color:blue;
+    font:italic;
+}
+/*class selector*/
+.second {
+    color:rgb(141, 25, 25);
+}

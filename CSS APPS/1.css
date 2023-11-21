@@ -1,0 +1,23 @@
+
+h2 {
+    background-color:cornflowerblue;
+    text-align: center;
+    margin:30px 100px 30px 100px;
+    color: darkblue;
+}
+
+fieldset {
+    text-align: center;
+    background-color:plum;
+    color:firebrick;
+    border: 7px solid tomato;
+    border-radius: 20px;
+    margin-left:  100px;
+    margin-right: 100px;
+}
+input {
+        background-color: darkgrey;
+}
+button {
+    background-color: darkgrey;
+}

@@ -1,0 +1,14 @@
+/*
+padding style
+*/
+h2 {
+    border: 10px solid palevioletred;
+    padding-left: 40px;
+    padding-top:  20px;
+    padding-bottom: 20px;
+    padding-right:  40px;
+    /* we get paddng space for all sides*/
+    /* 0 means 30px on top and bottom sides but 0 on left and right*/
+    padding: 30px 0;
+    
+}

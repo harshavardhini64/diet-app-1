@@ -1,0 +1,15 @@
+/*
+styles with border properties*/
+p {
+    border-style:double;
+    border-width:20px;
+    border-color:indianred;
+    border-top-style:dashed;
+    border-top-color:chocolate;
+    border-bottom-style:groove;
+    border-bottom-color:brown;
+    border-right-style:double;
+    border-right-color: blue;
+    border-left-style:ridge;
+    border-left-color:crimson;
+}
